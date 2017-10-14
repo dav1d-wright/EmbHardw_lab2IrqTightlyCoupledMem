@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Oct 04 15:17:12 2017
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : lab1GetStarted
+Top-level Entity Name : lab2IrqTightlyCoupledMem
+Family : Cyclone IV E
+Total logic elements : 6,252
+    Total combinational functions : 5,253
+    Dedicated logic registers : 3,654
+Total registers : 3654
+Total pins : 48
+Total virtual pins : 0
+Total memory bits : 130,624
+Embedded Multiplier 9-bit elements : 6
+Total PLLs : 1
